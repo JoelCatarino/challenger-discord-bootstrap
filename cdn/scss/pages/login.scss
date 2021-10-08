@@ -1,0 +1,31 @@
+.container-main {
+    background: url(../../src/img/Dots.png);
+    height: 550px;
+}
+
+.main-section {
+    display: flex;
+}
+
+.main-section .img-flash-login {
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.register {
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.562);
+}
+
+.main-form  {
+   
+}
+
+.form-control {
+    width: 20%;
+    margin-bottom: 20px;
+}
