@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div class="container-main">
     <div class="row">
         <section class="main-section">
@@ -10,3 +11,6 @@
         </section>
     </div>
 </div>
+=======
+locale_get_display_name
+>>>>>>> cd1775689eeae0752ca8f48798af655823f3003c

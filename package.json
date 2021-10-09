@@ -18,7 +18,10 @@
   "homepage": "https://github.com/JoelCatarino/challenger-discord-bootstrap#readme",
   "dependencies": {
     "bootstrap": "^5.1.2",
+<<<<<<< HEAD
     "bootstrap-icons": "^1.5.0",
+=======
+>>>>>>> cd1775689eeae0752ca8f48798af655823f3003c
     "jquery": "^3.6.0"
   }
 }

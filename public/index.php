@@ -18,7 +18,10 @@
 <body>
     <header class="main-header">
         <nav class="nav-bar  ">
+<<<<<<< HEAD
             <img src="../src/img/logo.png" alt="">
+=======
+>>>>>>> cd1775689eeae0752ca8f48798af655823f3003c
             <h1 class="logo">
                 <a href="index.html"></a>
             </h1>
