@@ -1,0 +1,175 @@
+.section-title p {
+    color: #F8982C;
+    width: 635px;
+    height: 100px;
+    padding-left: 90px;
+    padding-top: 175px;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 117px;
+    display: flex;
+    align-items: center;
+}
+
+.container-one h3 {
+    width: 577px;
+    height: 250px;
+    padding-left: 150px;
+    padding-top: 140px;
+    font-weight: 300;
+    font-size: 30px;
+
+    color: #7C7C7C;
+}
+
+.btn-hire {
+    font-weight: 500;
+    font-size: 35px;
+    border: solid 0px;
+    border-radius: 5px;
+    background-color: #FDE5CA;
+    width: 208px;
+    height: 61px;
+    margin-left: 150px;
+    margin-top: 110px;
+    color: #F8982C;
+}
+
+.container-seta {
+    display: flex;
+    justify-content: center;
+    // align-items: center;
+    height: 100px;
+    width: 100%;
+}
+
+#seta {
+    position: absolute;
+    padding: 20px;
+    box-shadow: 5px -5px 0 1px chocolate inset;
+    border: solid transparent;
+    border-width: 0 0 2px 2px;
+    border-radius: 6px;
+    transform: rotate(315deg);
+}
+
+//            #2 SECTION
+
+.container-companies {
+    height: 500px;
+    width: 100%;
+    background-color: #e7e1b821;
+}
+
+.title-companie {
+    line-height: 70px;
+    color: #515151;
+    font-size: 60px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.subtitle-companie {
+    font-size: 22px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.img-companie {
+    display: flex;
+    justify-content: center;
+}
+
+.container-more {
+    height: 1500px;
+    width: 100%;
+}
+
+.more {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-size: 90px;
+    font-weight: 500;
+    font-size: 80px;
+    color: #F8982C;
+}
+
+.card {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: solid 1px #b5179e;
+    background-color: rgba(255, 255, 255, 0.034);
+}
+
+.card-title {
+    margin-left: 20px;
+    color: #b5179e;
+    margin-top: 20px;
+}
+
+.card-text {
+    color: #3b3b3bb0;
+    margin-top: 40px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.card-2 {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: solid 1px #4361ee;
+    background-color: rgba(255, 255, 255, 0.034);
+}
+
+.card-title-2 {
+    // font-size: 30px;
+    margin-left: 20px;
+    color: #4361ee;
+    margin-top: 20px;
+}
+
+.card-3 {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: solid 1px #90be6d;
+    background-color: rgba(255, 255, 255, 0.034);
+
+}
+
+.card-title-3 {
+    margin-left: 20px;
+    color: #90be6d;
+    margin-top: 15px;
+}
+
+.card-text-3 {
+    color: #3b3b3bb0;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+//            #3 SECTION
+
+
+.what {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    margin-left: 60px;
+    font-size: 60px;
+    font-weight: 500;
+    color: #F8982C;
+}
+
