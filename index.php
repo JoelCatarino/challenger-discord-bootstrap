@@ -9,24 +9,16 @@
     <title>Discord-Community Bootstrap Challenger</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous"></head>
-<<<<<<< HEAD
     <link rel="stylesheet" href="cdn/css/app.css">
     <link rel="stylesheet" href="cdn/css/bootstrap_custom.css">
-=======
-    <link rel="stylesheet" href="style/app.css">
->>>>>>> cd1775689eeae0752ca8f48798af655823f3003c
 
 <body>
     <header class="main-header">
         <nav class="nav-bar">
             <h1 class="logo">
-<<<<<<< HEAD
                 <a href="index.php">
                     <img class="d-flex  justfy-content-center" src="src/img/logo.png" alt="">
                 </a>
-=======
-                <a href="index.php"></a>
->>>>>>> cd1775689eeae0752ca8f48798af655823f3003c
             </h1>
 
             <ul class="navbar-nav">
@@ -84,10 +76,7 @@
         </div>
     </footer>
 
-<<<<<<< HEAD
     <script src="node_modules/bootstrap-icons/font/bootstrap-icons.css"></script>
-=======
->>>>>>> cd1775689eeae0752ca8f48798af655823f3003c
     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="node_modules/jquery/dist/jquery.min.js"></script>
 </body>
