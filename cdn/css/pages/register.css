@@ -1,0 +1,43 @@
+.container-main {
+  background: url(../../src/img/Dots.png);
+  height: 690px;
+}
+
+.border {
+  border: solid 1px;
+  width: 400px;
+  height: 440px;
+  border-radius: 10px;
+  background: #f8992cc2;
+}
+
+.register {
+  font-weight: 700;
+  border: 1px;
+  color: white;
+}
+
+.main-form {
+  flex-direction: column;
+  height: 200px;
+}
+
+.form-control {
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+.recover {
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 300;
+  color: rgba(17, 17, 17, 0.377);
+}
+
+.btn {
+  font-size: 18px;
+  border: chocolate solid 1px;
+}
+
+/*# sourceMappingURL=register.css.map */

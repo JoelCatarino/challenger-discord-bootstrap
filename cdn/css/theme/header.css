@@ -1,0 +1,34 @@
+* {
+  font-family: "Mukta", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+html,
+body {
+  width: 100% !important;
+}
+
+.backgrund {
+  background: url(../../src/img/Dots.png);
+}
+
+.main-header {
+  width: 100%;
+  background-color: #212529;
+  padding: 25px 8%;
+}
+
+.nav-link {
+  color: chocolate;
+  font-weight: 600;
+}
+.nav-link:hover {
+  color: #8d0000;
+}
+
+.img-logo {
+  background: no-repeat;
+}
+
+/*# sourceMappingURL=header.css.map */
