@@ -21,4 +21,8 @@
 </div>
 
 <!-- sass scss:css --watch -->
+<<<<<<< Updated upstream
 <!-- <img class="img-flash-login" src="src/img/Logo1.png" alt=""> -->
+=======
+<!-- <img class="img-flash-login" src="src/img/Logo1.png" alt=""> -->
+>>>>>>> Stashed changes

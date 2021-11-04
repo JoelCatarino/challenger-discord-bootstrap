@@ -31,6 +31,13 @@ body {
   background: no-repeat;
 }
 
+<<<<<<< Updated upstream
+=======
+.navbar-nav {
+  color: blue;
+}
+
+>>>>>>> Stashed changes
 * {
   margin: 0;
   padding: 0;
@@ -215,6 +222,7 @@ body {
   justify-content: center;
 }
 
+<<<<<<< Updated upstream
 .container-more {
   height: 1500px;
   width: 100%;
@@ -226,6 +234,13 @@ body {
   font-size: 90px;
   font-weight: 500;
   font-size: 80px;
+=======
+.more {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-size: 90px;
+  font-weight: 500;
+>>>>>>> Stashed changes
   color: #F8982C;
 }
 
@@ -288,9 +303,15 @@ body {
 }
 
 .what {
+<<<<<<< Updated upstream
   margin-top: 150px;
   margin-bottom: 50px;
   margin-left: 60px;
+=======
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 40px;
+>>>>>>> Stashed changes
   font-size: 60px;
   font-weight: 500;
   color: #F8982C;
@@ -298,7 +319,11 @@ body {
 
 .container-main {
   background: url(../../src/img/Dots.png);
+<<<<<<< Updated upstream
   height: 700px;
+=======
+  height: 500px;
+>>>>>>> Stashed changes
 }
 
 .border {
@@ -343,7 +368,11 @@ body {
 
 .container-main {
   background: url(../../src/img/Dots.png);
+<<<<<<< Updated upstream
   height: 690px;
+=======
+  height: 600px;
+>>>>>>> Stashed changes
 }
 
 .border {

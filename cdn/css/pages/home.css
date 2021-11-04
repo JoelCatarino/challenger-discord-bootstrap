@@ -82,6 +82,7 @@
   justify-content: center;
 }
 
+<<<<<<< Updated upstream
 .container-more {
   height: 1500px;
   width: 100%;
@@ -93,6 +94,13 @@
   font-size: 90px;
   font-weight: 500;
   font-size: 80px;
+=======
+.more {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-size: 90px;
+  font-weight: 500;
+>>>>>>> Stashed changes
   color: #F8982C;
 }
 
@@ -155,9 +163,15 @@
 }
 
 .what {
+<<<<<<< Updated upstream
   margin-top: 150px;
   margin-bottom: 50px;
   margin-left: 60px;
+=======
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 40px;
+>>>>>>> Stashed changes
   font-size: 60px;
   font-weight: 500;
   color: #F8982C;

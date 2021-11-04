@@ -27,7 +27,11 @@
                     </a>
                 </h1>
             </div>
+<<<<<<< Updated upstream
             <div class="col d-flex justify-content-center align-items-center">
+=======
+            <div class="col d-flex justify-content-center align-items-center me-5">
+>>>>>>> Stashed changes
                 <label class="mx-auto" for="switch">
                     <input type="checkbox" id="switch">Dark Mode
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
@@ -40,6 +44,7 @@
                 </label>
             </div>
 
+<<<<<<< Updated upstream
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container-fluid">
                     <!-- <a class="navbar-brand" href="#">Navbar</a> -->
@@ -101,6 +106,33 @@
                     </ul>
                 </nav>
             </div> -->
+=======
+            <div class="col">
+                <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                    <div class="container-fluid">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul class="navbar-nav">
+                                <li class="nav-item pe-5">
+                                    <a class="nav-link" href="index.php?app=home">Home</a>
+                                </li>
+                                <li class="nav-item pe-5">
+                                    <a class="nav-link" href="index.php?app=login">Login</a>
+                                </li>
+                                </li>
+                                <li class="nav-item pe-5">
+                                    <a class="nav-link" href="index.php?app=register">Register</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+>>>>>>> Stashed changes
         </div>
 
     </header>
@@ -130,7 +162,11 @@
                 <div class="img-flash col">
                     <img class="img-flash" src="src/img/flash.png" alt="Discord-Community Bootstrap Challenger">
                 </div>
+<<<<<<< Updated upstream
                 <div class="col get-in ms-5 ps-5">
+=======
+                <div class="col get-in">
+>>>>>>> Stashed changes
                     <h2 class="get text-white ms-5 ps-5 mb-4">Get in touch</h2>
 
                     <p class="cel text-white ms-5 ps-5 mb-4"><svg xmlns="http://www.w3.org/2000/svg" width="16"

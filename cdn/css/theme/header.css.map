@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 {"version":3,"sourceRoot":"","sources":["../../scss/theme/header.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;;;AAGJ;AAAA;EAEI;;;AAGJ;EACI;;;AAGJ;EACI;EACA;EACA;;;AAGJ;EACI;EACA;;AAEA;EACI;;;AAIR;EACI","file":"header.css"}
+=======
+{"version":3,"sourceRoot":"","sources":["../../scss/theme/header.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;;;AAGJ;AAAA;EAEI;;;AAGJ;EACI;;;AAGJ;EACI;EACA;EACA;;;AAGJ;EACI;EACA;;AAEA;EACI;;;AAIR;EACI;;;AAGJ;EACI","file":"header.css"}
+>>>>>>> Stashed changes
